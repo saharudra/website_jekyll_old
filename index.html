@@ -6,15 +6,31 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
+    <span class="post-meta">
+      <span class="post-date"><i class="fa fa-calendar"></i> {{ post.date | date_to_string }}</span>
+    </span>
+
+    <h2 class="post-title">
+      <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {% if post.content contains '<!--more-->' %}
+
+      {{ post.content | split:'<!--more-->' | first }}
+      <p class="continue-reading">
+        <a href="{{ post.url }}"><span class="text">continue </span><i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a>
+        {% if site.reading_time %}
+          <span class="post-reading-time">{% include reading-time.html content=post.content %}</span>
+        {% endif %}
+      </p>
+    {% else %}
+
+      {{ post.content }}
+
+    {% endif %}
   </div>
   {% endfor %}
 </div>

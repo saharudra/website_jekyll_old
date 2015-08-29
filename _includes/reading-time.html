@@ -1,0 +1,4 @@
+{% if site.reading_time %}
+    {% assign readtime = include.content | number_of_words | divided_by:site.words_per_minute %}
+    reading time ~{% if readtime <= 1 %}1 min{% else %}{{ readtime }} mins{% endif %}
+{% endif %}
