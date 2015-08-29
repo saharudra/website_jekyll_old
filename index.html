@@ -11,7 +11,7 @@ title: Home
     </span>
 
     <h2 class="post-title">
-      <a href="{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h2>
@@ -21,7 +21,7 @@ title: Home
 
       {{ post.content | split:'<!--more-->' | first }}
       <p class="continue-reading">
-        <a href="{{ post.url }}"><span class="text">continue </span><i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a>
+        <a href="{{ site.baseurl }}{{ post.url }}"><span class="text">continue </span><i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a>
         {% if site.reading_time %}
           <span class="post-reading-time">{% include reading-time.html content=post.content %}</span>
         {% endif %}
