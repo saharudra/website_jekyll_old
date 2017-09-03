@@ -4,8 +4,8 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Rambling
+tagline:             'Buffoon'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
@@ -16,6 +16,13 @@ author:
   name:              Mark Otto
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
+
+social:
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/saharudra/'}
+- {icon: 'github', link: 'https://github.com/saharudra'}
+- {icon: 'stack-exchange', link: 'https://stackexchange.com/users/2868544/saha-rudra?tab=accounts'}
+- {icon: 'twitter', link: 'https://twitter.com/saharrudraa'}
+- {icon: 'envelope', link: 'mailto:rudra.saha@gmail.com'}
 
 # Custom vars
 version:             1.1.0
