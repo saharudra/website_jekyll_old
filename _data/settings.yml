@@ -7,8 +7,8 @@ author:
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'saharrudraa'
+  comments: true
+  disqus_shortname: 'saharudra-github-io'
 
 menu:
 - {name: 'About', file: 'about.html'}
