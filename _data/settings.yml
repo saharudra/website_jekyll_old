@@ -1,9 +1,17 @@
+title:  "Rambling"
+tagline: "Buffoon"
+description:
+author:
+  name: "Rudra Saha"
+  twitter: saharrudraa
+
 # Change to true for Disqus comments
 disqus:
   comments: true
   disqus_shortname: 'saharrudraa'
 
 menu:
+- {name: 'About', file: 'about.html'}
 - {name: 'Resume', file: 'resume.html'}
 
 social:
