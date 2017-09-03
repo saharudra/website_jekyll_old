@@ -7,7 +7,7 @@ layout: default
     <div class="col-md-10 col-md-offset-1">
         <div class="row">
             <div class="col-md-4">
-                <span> #2072,1255 E University Dr</span><br/>
+                <span> #3067,1265 E University Dr</span><br/>
                 <span> Tempe,AZ 85281</span>
             </div>
 
@@ -24,6 +24,35 @@ layout: default
         <div style="font-weight:bold;font-size:large">
             <span> Employment</span>
         </div>
+	<br></br>
+        <div class="row">
+            <div class="col-md-4">
+                <span><b>Graduate Research Assistant</b></span>
+            </div>
+            <div class="col-md-4" align="center">
+                <span><b>Perception in Robotics, Active Perception Group, ASU</b></span>
+            </div>
+            <div class="col-md-4" align="right">
+                <span><b>May 2017 - Present</b></span>
+            </div>
+            <div class="row">
+            <div class="col-md-11 col-md-offset-.5">
+                <div class="col-md-4">
+                    <span><b>Computer Vision</b></span>
+                </div>
+            </div>
+            <div class="col-md-11 col-md-offset-.5">
+                <ul>
+                    <li>
+                        <span>Working with Dr. Yezhou Yang and Dr. Qiushi Fu to develop assistive technology for stroke affected patients</span>
+                    </li>
+                    <li>
+                        <span>Implementing a pure vision based setup to evaluate patient improvement over time.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+	<br></br>
         <div class="row">
             <div class="col-md-4">
                 <span><b>Graduate Services Assistant</b></span>
@@ -32,7 +61,7 @@ layout: default
                 <span><b>Perception in Robotics, Active Perception Group, ASU</b></span>
             </div>
             <div class="col-md-4" align="right">
-                <span><b>Jan 2017 - Present</b></span>
+                <span><b>Jan 2017 - May 2017</b></span>
             </div>
             <div class="row">
             <div class="col-md-11 col-md-offset-.5">
@@ -43,7 +72,7 @@ layout: default
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
                     <li>
-                        <span>Working with Prof. Yezhou Yang on Scene Understanding and Disentangled Representations of Natural Images</span>
+                        <span>Working with Dr. Yezhou Yang on Scene Understanding and Disentangled Representations of Natural Images</span>
                     </li>
                     <li>
                         <span>Implementing deep learning models on a Jetson Tk1 mounted on top of a turtlebot.</span>
@@ -54,6 +83,7 @@ layout: default
                 </ul>
             </div>
         </div>
+	<br></br>
         <div class="row">
             <div class="col-md-4">
                 <span><b>Volunteer Software Developer</b></span>
@@ -87,7 +117,7 @@ layout: default
                 </ul>
             </div>
         </div>
-
+	<br></br>
          <div class="row">
             <div class="col-md-4">
                 <span><b>Software Engineer</b></span>
@@ -114,8 +144,7 @@ layout: default
                         <span>Wrote wrappers in C to invoke learning algorithms written In Python being run on Apache Spark cluster. Team of 4.</span>
                     </li>
                     <li>
-                        <span>Designed a version of One-Class SVM classifier to fit the problem description and realized an implementation of DBSCAN
-clustering algorithm. Used it for indirect labeling.</span>
+                        <span>Designed a version of One-Class SVM classifier to fit the problem description and realized an implementation of DBSCAN clustering algorithm. Used it for indirect labeling.</span>
                     </li>
                     <li>
                         <span>
@@ -143,7 +172,7 @@ clustering algorithm. Used it for indirect labeling.</span>
                 </ul>
             </div>
         </div>
-        
+        <br></br>
          <div class="row">
             <div class="col-md-4">
                 <span><b>Summer Intern</b></span>
@@ -171,9 +200,11 @@ clustering algorithm. Used it for indirect labeling.</span>
             </div>
         </div>
         <hr/>
+	<br></br>
         <div style="font-weight:bold;font-size:large">
             <span> Education</span>
         </div>
+	<br></br>
         <div class="row">
             <div class="col-md-4">
                 <span><b>Tempe, AZ</b></span>
@@ -190,11 +221,12 @@ clustering algorithm. Used it for indirect labeling.</span>
                         <span>Masters in Computer Engineering (CS)</span>
                     </li>
                     <li>
-                    <span>Graduate Coursework: Statistical Machine Learning; Deep Learning; Foundations of Algorithms; Random Signal Theory</span>
+                    <span>Graduate Coursework: Artificial Intelligence; Statistical Machine Learning; Deep Learning; Distributed Databases Systems; Foundations of Algorithms;</span>
                     </li>
                 </ul>
             </div>
         </div>
+	<br></br>
         <div class="row">
             <div class="col-md-4">
                 <span><b>Varanasi, UP, IND</b></span>
@@ -209,7 +241,7 @@ clustering algorithm. Used it for indirect labeling.</span>
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
                     <li>
-                        <span>B.Tech in Electronics Engineering, May 2014 GPA:3.6</span>
+                        <span>Bachelors in Electronics Engineering</span>
                     </li>
                 </ul>
 
@@ -217,11 +249,11 @@ clustering algorithm. Used it for indirect labeling.</span>
         </div>
         
         <hr/>
-        
+        <br></br>
         <div style="font-weight:bold;font-size:large">
             <span>Projects</span>
         </div>
-            
+        <br></br>    
         <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -244,7 +276,7 @@ clustering algorithm. Used it for indirect labeling.</span>
                 </ul>
             </div>
         </div> 
-           
+	<br></br>
         <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -264,7 +296,7 @@ clustering algorithm. Used it for indirect labeling.</span>
                 </ul>
             </div>
         </div>
-        
+        <br></br>
            <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -280,7 +312,7 @@ clustering algorithm. Used it for indirect labeling.</span>
                 </ul>
             </div>
         </div>
-        
+        <br></br>
         <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -301,7 +333,7 @@ clustering algorithm. Used it for indirect labeling.</span>
                 </ul>
             </div>
         </div>
-        
+        	<br></br>
                 <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -316,7 +348,7 @@ clustering algorithm. Used it for indirect labeling.</span>
                 </ul>
             </div>
         </div>
-        
+        	<br></br>
                 <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -336,7 +368,7 @@ clustering algorithm. Used it for indirect labeling.</span>
                 </ul>
             </div>
         </div>
-        
+        	<br></br>
            <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -354,7 +386,7 @@ clustering algorithm. Used it for indirect labeling.</span>
                 </ul>
             </div>
         </div>
-        
+        	<br></br>
         <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -374,25 +406,12 @@ clustering algorithm. Used it for indirect labeling.</span>
                 </ul>
             </div>
         </div>
-        
-        <div class="row">
-           <div class="col-md-11 col-md-offset-.5">
-                <div class="col-md-4">
-                    <span><b>Tanks and SpaceWars</b></span>
-                </div>
-            </div>
-            <div class="col-md-11 col-md-offset-.5">
-                <ul>
-                    <li>
-                        <span>Developed these games while learning python as part of a MOOC, uses easygui and simplegui.</span>
-                    </li>
-                </ul>
-            </div>
-        </div>
       <hr/>
+	<br></br>
         <div style="font-weight:bold;font-size:large">
             <span>Skills and Languages</span>
         </div>
+	<br></br>
         <div class="row">
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
