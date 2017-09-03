@@ -46,7 +46,7 @@ title: Resume
                         <span>Working with Dr. Yezhou Yang and Dr. Qiushi Fu to develop assistive technology for stroke affected patients</span>
                     </li>
                     <li>
-                        <span>Implementing a pure vision based setup to evaluate patient improvement over time.</span>
+                        <span>Implemented a pure vision based setup to evaluate patient improvement over time.</span>
                     </li>
                 </ul>
             </div>
