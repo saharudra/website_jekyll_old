@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World!"
+title: "MNIST!"
 author: "Rudra Saha"
 categories: documentation
 tags: [documentation,sample]
@@ -12,4 +12,3 @@ image:
 This would be my very first blog post.
 
 This will be my small island where I hope to organize my thoughts.
-If you do not like my posts, C'est la vie!
