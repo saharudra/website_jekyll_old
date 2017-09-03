@@ -24,7 +24,7 @@ layout: default
         <div style="font-weight:bold;font-size:large">
             <span> Employment</span>
         </div>
-	<br></br>
+	<br>
         <div class="row">
             <div class="col-md-4">
                 <span><b>Graduate Research Assistant</b></span>
@@ -52,7 +52,7 @@ layout: default
                 </ul>
             </div>
         </div>
-	<br></br>
+	<br>
         <div class="row">
             <div class="col-md-4">
                 <span><b>Graduate Services Assistant</b></span>
@@ -83,7 +83,7 @@ layout: default
                 </ul>
             </div>
         </div>
-	<br></br>
+	<br>
         <div class="row">
             <div class="col-md-4">
                 <span><b>Volunteer Software Developer</b></span>
@@ -105,7 +105,7 @@ layout: default
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
                     <li>
-                        <span>Developing automatic parser tag generation using python on a linux 
+                        <span>Developing automatic parser tag generation using python on a linux
                             framework from scratch integrating with existing code.</span>
                     </li>
                     <li>
@@ -117,7 +117,7 @@ layout: default
                 </ul>
             </div>
         </div>
-	<br></br>
+	<br>
          <div class="row">
             <div class="col-md-4">
                 <span><b>Software Engineer</b></span>
@@ -148,13 +148,13 @@ layout: default
                     </li>
                     <li>
                         <span>
-                            Selected for <b> CISCO DESIGN and INNOVATION CONFERENCE (CDIC), 2016 </b>. Presented a talk as part of NMLRG in IETF-95.
+                            Selected for CISCO DESIGN and INNOVATION CONFERENCE (CDIC), 2016. Presented a talk as part of NMLRG in IETF-95.
                         </span>
                     </li>
                 </ul>
             </div>
         </div>
-        
+
         <div class="row">
             <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -172,7 +172,7 @@ layout: default
                 </ul>
             </div>
         </div>
-        <br></br>
+        <br>
          <div class="row">
             <div class="col-md-4">
                 <span><b>Summer Intern</b></span>
@@ -200,11 +200,11 @@ layout: default
             </div>
         </div>
         <hr/>
-	<br></br>
+	<br>
         <div style="font-weight:bold;font-size:large">
             <span> Education</span>
         </div>
-	<br></br>
+	<br>
         <div class="row">
             <div class="col-md-4">
                 <span><b>Tempe, AZ</b></span>
@@ -226,7 +226,7 @@ layout: default
                 </ul>
             </div>
         </div>
-	<br></br>
+	<br>
         <div class="row">
             <div class="col-md-4">
                 <span><b>Varanasi, UP, IND</b></span>
@@ -247,13 +247,13 @@ layout: default
 
             </div>
         </div>
-        
+
         <hr/>
-        <br></br>
+        <br>
         <div style="font-weight:bold;font-size:large">
             <span>Projects</span>
         </div>
-        <br></br>    
+        <br>
         <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -263,11 +263,11 @@ layout: default
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
                     <li>
-                        <span>Implemented an end-to-end trained ai chatbot with no assumptions or 
+                        <span>Implemented an end-to-end trained ai chatbot with no assumptions or
                             hardcoded keywords about the dataset as part of SWHacks 2017.</span>
                     </li>
                     <li>
-                        <span>Built upon seq2seq model of tensorflow with LSTM architecture for both the 
+                        <span>Built upon seq2seq model of tensorflow with LSTM architecture for both the
                         encoder and decoder modules.</span>
                     </li>
                     <li>
@@ -275,8 +275,8 @@ layout: default
                     </li>
                 </ul>
             </div>
-        </div> 
-	<br></br>
+        </div>
+	<br>
         <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -286,17 +286,17 @@ layout: default
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
                     <li>
-                        <span>Implementing Look-ahead propagation model to estimate the seed set in order 
+                        <span>Implementing Look-ahead propagation model to estimate the seed set in order
                             to maximize influence in a social graph.</span>
                     </li>
                     <li>
-                        <span>Influence being modeled as a Gaussian distribution and being considered 
+                        <span>Influence being modeled as a Gaussian distribution and being considered
                             for two hop distance as oppose to only looking at the directly connected nodes.</span>
                     </li>
                 </ul>
             </div>
         </div>
-        <br></br>
+        <br>
            <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -306,13 +306,13 @@ layout: default
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
                     <li>
-                        <span>Developed a customized team task tracker web application in Django for 
+                        <span>Developed a customized team task tracker web application in Django for
                             the NGO I was working with.</span>
                     </li>
                 </ul>
             </div>
         </div>
-        <br></br>
+        <br>
         <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -322,18 +322,18 @@ layout: default
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
                     <li>
-                        <span>Implemented a recommender system that recommends relevant articles by 
-                        creating a user profile based on the type of articles visited and their 
+                        <span>Implemented a recommender system that recommends relevant articles by
+                        creating a user profile based on the type of articles visited and their
                         frequency from user’s internet history.</span>
                     </li>
                     <li>
-                        <span>Worked with a team of 3 over a period of four months to implement this 
+                        <span>Worked with a team of 3 over a period of four months to implement this
                         from scratch.</span>
                     </li>
                 </ul>
             </div>
         </div>
-        	<br></br>
+        	<br>
                 <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -348,7 +348,7 @@ layout: default
                 </ul>
             </div>
         </div>
-        	<br></br>
+        	<br>
                 <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -358,17 +358,17 @@ layout: default
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
                     <li>
-                        <span>Implemented a multiclass SVM classifier and k-NN classifier which used 
+                        <span>Implemented a multiclass SVM classifier and k-NN classifier which used
                             Information gain on GTZAN dataset.</span>
                     </li>
                     <li>
-                        <span>Learned about various machine learning algorithms and some of the signal 
+                        <span>Learned about various machine learning algorithms and some of the signal
                             processing techniques as part of it.</span>
                     </li>
                 </ul>
             </div>
         </div>
-        	<br></br>
+        	<br>
            <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -386,7 +386,7 @@ layout: default
                 </ul>
             </div>
         </div>
-        	<br></br>
+        	<br>
         <div class="row">
            <div class="col-md-11 col-md-offset-.5">
                 <div class="col-md-4">
@@ -399,19 +399,19 @@ layout: default
                         <span>Implemented as part of an online course on Coursera.</span>
                     </li>
                     <li>
-                        <span>Consists of a neural network classifier (97.48 % accuracy) and a 
-                            CNN (99.2% accuracy) classifier. Uses MNIST dataset and is written 
+                        <span>Consists of a neural network classifier (97.48 % accuracy) and a
+                            CNN (99.2% accuracy) classifier. Uses MNIST dataset and is written
                             in python where the latter uses Theano(haven’t used theano after this project).</span>
                     </li>
                 </ul>
             </div>
         </div>
       <hr/>
-	<br></br>
+	<br>
         <div style="font-weight:bold;font-size:large">
             <span>Skills and Languages</span>
         </div>
-	<br></br>
+	<br>
         <div class="row">
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
