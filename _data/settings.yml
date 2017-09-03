@@ -4,7 +4,6 @@ disqus:
   disqus_shortname: 'saharrudraa'
 
 menu:
-- {name: 'About', file: 'about.html'}
 - {name: 'Resume', file: 'resume.html'}
 
 social:
