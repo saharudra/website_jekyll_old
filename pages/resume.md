@@ -27,8 +27,8 @@ layout: default
 	<br>
         <div class="row">
             <div class="col-md-4" align="center">
-                <span><b>Graduate Research Assistant</b></span>
-                <span><b>Perception in Robotics, Active Perception Group, ASU</b></span>
+                <span><b>Graduate Research Assistant, </b></span>
+                <span><b>Perception in Robotics, Active Perception Group, ASU, </b></span>
                 <span><b>May 2017 - Present</b></span>
             </div>
             <div class="row">
