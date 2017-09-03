@@ -52,12 +52,8 @@ title: Resume
 	<br>
         <div class="row">
             <div class="col-md-4">
-                <span><b>Graduate Services Assistant</b></span>
-            </div>
-            <div class="col-md-4" align="center">
-                <span><b>Perception in Robotics, Active Perception Group, ASU</b></span>
-            </div>
-            <div class="col-md-4" align="right">
+                <span><b>Graduate Services Assistant, </b></span>
+                <span><b>Perception in Robotics, Active Perception Group, ASU, </b></span>
                 <span><b>Jan 2017 - May 2017</b></span>
             </div>
             <div class="row">
@@ -83,12 +79,8 @@ title: Resume
 	<br>
         <div class="row">
             <div class="col-md-4">
-                <span><b>Volunteer Software Developer</b></span>
-            </div>
-            <div class="col-md-4" align="center">
-                <span><b>Cyber Socio-Intelligent Systems Laboratory, ASU</b></span>
-            </div>
-            <div class="col-md-4" align="right">
+                <span><b>Volunteer Software Developer, </b></span>
+                <span><b>Cyber Socio-Intelligent Systems Laboratory, ASU, </b></span>
                 <span><b>Aug 2016 - Dec 2016</b></span>
             </div>
         </div>
@@ -117,12 +109,8 @@ title: Resume
 	<br>
          <div class="row">
             <div class="col-md-4">
-                <span><b>Software Engineer</b></span>
-            </div>
-            <div class="col-md-4" align="center">
-                <span><b>Cisco Systems, Bangalore, IND</b></span>
-            </div>
-            <div class="col-md-4" align="right">
+                <span><b>Software Engineer, </b></span>
+                <span><b>Cisco Systems, Bangalore, IND, </b></span>
                 <span><b>Aug 2014 - April 2016</b></span>
              </div>
         </div>
@@ -172,9 +160,7 @@ title: Resume
         <br>
          <div class="row">
             <div class="col-md-4">
-                <span><b>Summer Intern</b></span>
-            </div>
-            <div class="col-md-4" align="center">
+                <span><b>Summer Intern, </b></span>
                 <span><b>Solid State Physics Laboratory, Defense Research and Development Organization (DRDO), New Delhi, IND</b></span>
             </div>
             <div class="col-md-4" align="right">
@@ -204,12 +190,8 @@ title: Resume
 	<br>
         <div class="row">
             <div class="col-md-4">
-                <span><b>Tempe, AZ</b></span>
-            </div>
-            <div class="col-md-4" align="center">
-                <span><b>Arizona State University, Tempe, AZ</b></span>
-            </div>
-            <div class="col-md-4" align="right">
+                <span><b>Tempe, AZ, </b></span>
+                <span><b>Arizona State University, </b></span>
                 <span><b>Fall 2016 - Expected Fall 2018</b></span>
             </div>
             <div class="col-md-11 col-md-offset-.5">
@@ -226,12 +208,8 @@ title: Resume
 	<br>
         <div class="row">
             <div class="col-md-4">
-                <span><b>Varanasi, UP, IND</b></span>
-            </div>
-            <div class="col-md-4" align="center">
-                <span><b>Indian Institute of Technology, BHU, Varanasi</b></span>
-            </div>
-            <div class="col-md-4" align="right">
+                <span><b>Varanasi, UP, IND, </b></span>
+                <span><b>Indian Institute of Technology, Varanasi, /b></span>
                 <span><b>July 20010 - May 2014</b></span>
             </div>
 
