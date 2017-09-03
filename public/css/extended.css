@@ -74,3 +74,12 @@ h1.post-title {
     margin-left: 0.75rem;
     color: #9a9a9a;
 }
+
+}
+.menu-list {
+  line-height: $header-thickness;
+  float: right;
+}
+.menu-link {
+  padding: 5px 10px;
+}

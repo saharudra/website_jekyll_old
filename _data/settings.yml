@@ -1,0 +1,17 @@
+# Change to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'saharrudraa'
+
+menu:
+- {name: 'About', file: 'about.html'}
+- {name: 'Resume', file: 'resume.html'}
+
+social:
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/saharudra/'}
+- {icon: 'github', link: 'https://github.com/saharudra'}
+- {icon: 'stack-exchange', link: 'https://stackexchange.com/users/2868544/saha-rudra?tab=accounts'}
+- {icon: 'twitter', link: 'https://twitter.com/saharrudraa'}
+- {icon: 'envelope', link: 'mailto:rudra.saha@gmail.com'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
