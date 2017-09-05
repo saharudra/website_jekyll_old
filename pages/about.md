@@ -1,5 +1,5 @@
 ---
-layout: misc
+layout: post
 title: About
 image:
   feature: rudra.jpg
