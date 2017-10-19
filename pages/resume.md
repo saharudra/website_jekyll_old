@@ -100,7 +100,7 @@ title: Resume
             <div class="col-md-11 col-md-offset-.5">
                 <ul>
                     <li>
-                        <span>Developing automatic parser tag generation using python on a linux
+                        <span>Developing automatic parser tag generation using python on 10a linux
                             framework from scratch integrating with existing code.</span>
                     </li>
                     <li>
@@ -220,7 +220,7 @@ title: Resume
                 <span><b>Indian Institute of Technology, Varanasi, </b></span>
             </div>
             <div class="col-md-4" align="right">
-                <span><b>July 20010 - May 2014</b></span>
+                <span><b>July 2010 - May 2014</b></span>
             </div>
 
             <div class="col-md-11 col-md-offset-.5">
